@@ -1,0 +1,7 @@
+D:\Загрузки\Учеба\Geek\Основы C#\First_HomeWork\bin\Debug\First_HomeWork.exe.config
+D:\Загрузки\Учеба\Geek\Основы C#\First_HomeWork\bin\Debug\First_HomeWork.exe
+D:\Загрузки\Учеба\Geek\Основы C#\First_HomeWork\bin\Debug\First_HomeWork.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\First_HomeWork\obj\Debug\First_HomeWork.csprojAssemblyReference.cache
+D:\Загрузки\Учеба\Geek\Основы C#\First_HomeWork\obj\Debug\First_HomeWork.csproj.CoreCompileInputs.cache
+D:\Загрузки\Учеба\Geek\Основы C#\First_HomeWork\obj\Debug\First_HomeWork.exe
+D:\Загрузки\Учеба\Geek\Основы C#\First_HomeWork\obj\Debug\First_HomeWork.pdb
